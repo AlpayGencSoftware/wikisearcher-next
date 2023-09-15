@@ -1,20 +1,43 @@
 {
   "pages": {
     "/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/page.js"
+      "static/chunks/webpack-c9dddbfae471447d.js",
+      "static/chunks/fd9d1056-9200b628bfbdc6da.js",
+      "static/chunks/596-1f2608a42259096f.js",
+      "static/chunks/main-app-c13711f12dd4ebb0.js",
+      "static/chunks/app/page-3a79b94e5ca0c3be.js"
     ],
     "/layout": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/css/app/layout.css",
-      "static/chunks/app/layout.js"
+      "static/chunks/webpack-c9dddbfae471447d.js",
+      "static/chunks/fd9d1056-9200b628bfbdc6da.js",
+      "static/chunks/596-1f2608a42259096f.js",
+      "static/chunks/main-app-c13711f12dd4ebb0.js",
+      "static/chunks/685-8c2a2ee442f8842a.js",
+      "static/css/33b6f1b14a7a8627.css",
+      "static/chunks/app/layout-07538626de4b91af.js"
     ],
     "/[searchTerm]/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/[searchTerm]/page.js"
+      "static/chunks/webpack-c9dddbfae471447d.js",
+      "static/chunks/fd9d1056-9200b628bfbdc6da.js",
+      "static/chunks/596-1f2608a42259096f.js",
+      "static/chunks/main-app-c13711f12dd4ebb0.js",
+      "static/chunks/685-8c2a2ee442f8842a.js",
+      "static/chunks/app/[searchTerm]/page-31729021df523db1.js"
+    ],
+    "/[searchTerm]/error": [
+      "static/chunks/webpack-c9dddbfae471447d.js",
+      "static/chunks/fd9d1056-9200b628bfbdc6da.js",
+      "static/chunks/596-1f2608a42259096f.js",
+      "static/chunks/main-app-c13711f12dd4ebb0.js",
+      "static/chunks/685-8c2a2ee442f8842a.js",
+      "static/chunks/app/[searchTerm]/error-b3d86bf67d4017a4.js"
+    ],
+    "/[searchTerm]/loading": [
+      "static/chunks/webpack-c9dddbfae471447d.js",
+      "static/chunks/fd9d1056-9200b628bfbdc6da.js",
+      "static/chunks/596-1f2608a42259096f.js",
+      "static/chunks/main-app-c13711f12dd4ebb0.js",
+      "static/chunks/app/[searchTerm]/loading-a670944eb45feb0b.js"
     ]
   }
 }

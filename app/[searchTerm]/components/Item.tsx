@@ -33,7 +33,6 @@ export default function Item({ result }: Props) {
                     {itemTextCol}
                 </div>
             </article>
-
         )
         : (
             <article className="m-4 max-w-lg">

@@ -13,7 +13,7 @@ export default function Search() {
          router.push(`/${search}`);
     }
   return (
-      <form className='w-50 flex justify-center md:justify-between' onSubmit={e=>handleSubmit}>
+      <form className='w-50 flex justify-center md:justify-between' onSubmit={e=>handleSubmit(e)}>
           <input type='text'
              value={search}
              onChange={(e)=>{
